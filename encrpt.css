@@ -1,0 +1,65 @@
+.text1{
+    color:blueviolet;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+    transition: 0.5s;
+}
+.text1:hover{
+    color:pink;
+    
+}
+
+
+.div1{
+    width: 50%;
+    height: 40px;
+    margin: auto;
+    margin-top: 50px;
+}
+.input{
+    border: 2px solid black;
+    width: 100%;
+    margin: auto;
+    height: 40px;
+}
+.div2{
+    width: 90px;
+    margin: auto;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+.button1{
+    text-align: center;
+    
+    
+}
+.button1:hover{
+    text-align: center;
+
+}
+.div3{
+    border: 2px solid black;
+    width: 50%;
+    margin: auto;
+    padding-top: 30px;
+    margin-top: 20px;
+
+}
+.output{
+    color: blue;
+    text-align:center;
+    padding-left: 40%;
+    
+}
+.dropdown{
+    mask-origin: margin-box;
+    position: absolute;
+    top: 225px;
+    right: 265px;
+    
+}
+.but{
+    text-align: center;
+    background-color: cornflowerblue;
+}
